@@ -1,0 +1,8 @@
+﻿{
+  "version": 1,
+  "companies": [
+    {"id":"greenhouse:gitlab","companyName":"GitLab","providerType":"GREENHOUSE","providerIdentifier":"gitlab","careersUrl":"https://about.gitlab.com/jobs/","enabled":true,"tags":["software","infrastructure","data"],"supportedLocations":[],"verificationState":"VERIFIED_ENDPOINT","lastVerifiedAt":"2026-09-30T00:00:00Z","verificationUrl":"https://boards-api.greenhouse.io/v1/boards/gitlab/jobs?content=true"},
+    {"id":"lever:spotify","companyName":"Spotify","providerType":"LEVER","providerIdentifier":"spotify","careersUrl":"https://www.lifeatspotify.com/jobs","enabled":true,"tags":["mobile","software","data"],"supportedLocations":[],"verificationState":"VERIFIED_ENDPOINT","lastVerifiedAt":"2026-09-30T00:00:00Z","verificationUrl":"https://api.lever.co/v0/postings/spotify?mode=json"},
+    {"id":"lever:meesho","companyName":"Meesho","providerType":"LEVER","providerIdentifier":"meesho","careersUrl":"https://www.meesho.io/jobs","enabled":true,"tags":["commerce","software","data"],"supportedLocations":[],"verificationState":"VERIFIED_ENDPOINT","lastVerifiedAt":"2026-09-30T00:00:00Z","verificationUrl":"https://api.lever.co/v0/postings/meesho?mode=json"}
+  ]
+}
